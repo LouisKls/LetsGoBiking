@@ -1,7 +1,7 @@
 # Let's Go Biking
 ## By Badr Al Achkar and Louis Calas
 
-### The goal of the Let’s Go Biking! project is to develop a small app to compute itineraries by reducing as much as possible the distance tocover by foot (by using bikes instead)
+### The goal of the Let’s Go Biking! project is to develop a small app to compute itineraries by reducing as much as possible the distance to cover by foot (by using bikes instead)
 
 ### External Resources
 
