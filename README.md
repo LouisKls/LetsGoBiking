@@ -24,7 +24,7 @@ They could also be run manually by following the instructions down below :
 - Once the host is deployed succesfully close it too (again the .exe is generated)
 
 Both .exe files can be found in *ProxyServer_Host\bin\Debug* and *Routing_Server_Host\bin\Debug* (respectfully)
-Run them both in the same order.
+Run them both in the same order (as admin).
 
 ### Second part that should be run is the front end :
 
